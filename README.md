@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-duchoprog-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pablo-l-duchovny/)](https://www.linkedin.com/in/pablo-l-duchovny/)
 
-![](https://img.shields.io/badge/HTML5-orange&logo=HTML5)
+![](https://img.shields.io/badge/HTML5-orange&logo=Twitter)
 
 
 <span class="know">HTML5</span>
