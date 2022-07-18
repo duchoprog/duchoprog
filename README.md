@@ -4,6 +4,9 @@
 
 ![](https://img.shields.io/badge/HTML5-orange) ![](https://img.shields.io/badge/CSS-red) ![](https://img.shields.io/badge/Javascript-green) ![](https://img.shields.io/badge/React-gold) ![](https://img.shields.io/badge/Vue-gray) ![](https://img.shields.io/badge/Node-orange) ![](https://img.shields.io/badge/Express-orange) ![](https://img.shields.io/badge/SQL-red) ![](https://img.shields.io/badge/Sequelize-green) ![](https://img.shields.io/badge/Sequelize-gold)
 
+I am a FullStack developer, focusing on Javascript and some libraries/frameworks such as React, Vue, Node. I also have some work experience with Java and databases, both relational and non-relational.
+Here are some samples of my skills.
+
 
   <a href="https://codesandbox.io">
     <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
