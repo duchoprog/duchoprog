@@ -8,6 +8,4 @@ I am a FullStack developer, focusing on Javascript and some libraries/frameworks
 Here are some samples of my skills.
 
 
-  <a href="https://codesandbox.io">
-    <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
-  </a>
+
