@@ -8,6 +8,9 @@ I am a FullStack developer, focusing on Javascript and some libraries/frameworks
 Here are some samples of my skills.
 
 [<img src="https://www.estudioliquid.com.ar/images/calcThumb.png" width=200>](https://www.estudioliquid.com.ar/reactcalc)
+[<img src="https://www.estudioliquid.com.ar/images/calcThumb.png" width=200>](https://www.estudioliquid.com.ar/Lyttone)
+[<img src="https://www.estudioliquid.com.ar/images/calcThumb.png" width=200>](https://www.estudioliquid.com.ar/reactcalc)
+[<img src="https://www.estudioliquid.com.ar/images/calcThumb.png" width=200>](https://www.estudioliquid.com.ar/reactcalc)
 
 
 
