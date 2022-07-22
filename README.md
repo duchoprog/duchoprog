@@ -7,5 +7,8 @@
 I am a FullStack developer, focusing on Javascript and some libraries/frameworks such as React, Vue, Node. I also have some work experience with Java and databases, both relational and non-relational.
 Here are some samples of my skills.
 
+<img src="https://www.estudioliquid.com.ar/images/calcThumb.png">(https://https://www.estudioliquid.com.ar/reactcalc)
+
+
 
 
