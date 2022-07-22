@@ -7,10 +7,10 @@
 I am a FullStack developer, focusing on Javascript and some libraries/frameworks such as React, Vue, Node. I also have some work experience with Java and databases, both relational and non-relational.
 Here are some samples of my skills.
 
-[<img src="https://www.estudioliquid.com.ar/images/calcThumb.png" width=200>](https://www.estudioliquid.com.ar/reactcalc)
-[<img src="https://www.estudioliquid.com.ar/images/lyttonethumb.png" width=400>](https://www.estudioliquid.com.ar/Lyttone)<br>
-[<img src="https://www.estudioliquid.com.ar/images/diabethumb.png" width=350>](https://www.estudioliquid.com.ar/diabetes)
-[<img src="https://www.estudioliquid.com.ar/images/SilkworksThumb.png" width=200>](https://www.estudioliquid.com.ar/DGallery)
+[<img src="https://www.estudioliquid.com.ar/images/calcThumb.png" height=200>](https://www.estudioliquid.com.ar/reactcalc)
+[<img src="https://www.estudioliquid.com.ar/images/lyttonethumb.png" height=200>](https://www.estudioliquid.com.ar/Lyttone)<br>
+[<img src="https://www.estudioliquid.com.ar/images/diabethumb.png" height=200>](https://www.estudioliquid.com.ar/diabetes)
+[<img src="https://www.estudioliquid.com.ar/images/SilkworksThumb.png" height=200>](https://www.estudioliquid.com.ar/DGallery)
 
 
 
